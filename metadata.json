@@ -1,0 +1,91 @@
+{
+  "color" : "474747",
+  "sounds" : [
+    {
+      "image" : "🥶",
+      "name" : "Air Conditioner",
+      "customSortIndex" : 0,
+      "color" : "52D6FC",
+      "type" : "wav"
+    },
+    {
+      "image" : "👚",
+      "customSortIndex" : 1,
+      "name" : "Dryer",
+      "color" : "FFC777"
+    },
+    {
+      "customSortIndex" : 2,
+      "color" : "0A84FF",
+      "name" : "Rain",
+      "image" : "🌦"
+    },
+    {
+      "color" : "5C5C5C",
+      "type" : "wav",
+      "image" : "🫧",
+      "name" : "Underwater",
+      "customSortIndex" : 3
+    },
+    {
+      "type" : "wav",
+      "customSortIndex" : 4,
+      "image" : "🐟",
+      "name" : "River",
+      "color" : "DE789D"
+    },
+    {
+      "customSortIndex" : 5,
+      "image" : "🌳",
+      "color" : "A06B23",
+      "name" : "Forrest",
+      "type" : "wav"
+    },
+    {
+      "customSortIndex" : 6,
+      "color" : "FF9F0A",
+      "name" : "Shopping Center",
+      "image" : "🛍",
+      "type" : "wav"
+    },
+    {
+      "customSortIndex" : 7,
+      "name" : "Waves",
+      "color" : "1941A3",
+      "image" : "🌊"
+    },
+    {
+      "customSortIndex" : 8,
+      "color" : "FF453A",
+      "type" : "wav",
+      "image" : "🔥",
+      "name" : "Fire"
+    },
+    {
+      "name" : "Thunderstorm",
+      "image" : "⛈️",
+      "customSortIndex" : 9,
+      "color" : "FFD60A"
+    },
+    {
+      "image" : "🏢",
+      "color" : "702898",
+      "type" : "wav",
+      "customSortIndex" : 10,
+      "name" : "City"
+    },
+    {
+      "customSortIndex" : 11,
+      "image" : "🌴",
+      "type" : "wav",
+      "color" : "0A84FF",
+      "name" : "Waterfall"
+    }
+  ],
+  "sorts" : "[{\"sortValue\":\"customSortIndex\",\"isForward\":true}]",
+  "description" : "Ambiance and atmosphere",
+  "name" : "White Noise",
+  "duration" : 2213,
+  "size" : 170101438,
+  "image" : "🔉"
+}
