@@ -6,18 +6,21 @@
       "name" : "Air Conditioner",
       "customSortIndex" : 0,
       "color" : "52D6FC",
+      "audioSource" : "[Air conditioner unit](https://freesound.org/people/Oplurus/sounds/462648/) by [Oplurus](https://freesound.org/people/Oplurus) is licensed under [CC 0](https://creativecommons.org/publicdomain/zero/1.0)",
       "type" : "wav"
     },
     {
       "image" : "👚",
       "customSortIndex" : 1,
       "name" : "Dryer",
+      "audioSource" : "[Dryer](https://freesound.org/people/Dinsfire/sounds/169625/) by [Dinsfire](https://freesound.org/people/Dinsfire) is licensed under [CC 0](https://creativecommons.org/publicdomain/zero/1.0)",
       "color" : "FFC777"
     },
     {
       "customSortIndex" : 2,
       "color" : "0A84FF",
       "name" : "Rain",
+      "audioSource" : "[Rain under a tree](https://freesound.org/people/sithjawa/sounds/260964/) by [sithjawa](https://freesound.org/people/sithjawa) is licensed under [CC 4.0](https://creativecommons.org/licenses/by/4.0)",
       "image" : "🌦"
     },
     {
@@ -25,6 +28,7 @@
       "type" : "wav",
       "image" : "🫧",
       "name" : "Underwater",
+      "audioSource" : "[Ambiance_Underwater_Stereo](https://freesound.org/people/Nox_Sound/sounds/482116/) by [Nox_Sound](https://freesound.org/people/Nox_Sound) is licensed under [CC 0](https://creativecommons.org/publicdomain/zero/1.0)",
       "customSortIndex" : 3
     },
     {
@@ -32,6 +36,7 @@
       "customSortIndex" : 4,
       "image" : "🐟",
       "name" : "River",
+      "audioSource" : "[Mountain River 002](https://freesound.org/people/Auxide_Audio/sounds/588178/) by [Auxide_Audio](https://freesound.org/people/Auxide_Audio) is licensed under [CC 0](https://creativecommons.org/publicdomain/zero/1.0)",
       "color" : "DE789D"
     },
     {
@@ -39,19 +44,22 @@
       "image" : "🌳",
       "color" : "A06B23",
       "name" : "Forrest",
-      "type" : "wav"
+      "audioSource" : "[Ambi - Swallows in field, birds - Sony pcm d50 stereo Recording - 2010 08 Exmoor Forrest England](https://freesound.org/people/jaap.sijben@gmail.com/sounds/177966/) by [jaap.sijben@gmail.com](https://freesound.org/people/jaap.sijben@gmail.com) is licensed under [CC 4.0](https://creativecommons.org/licenses/by/4.0)",
+      "type" : "m4a"
     },
     {
       "customSortIndex" : 6,
       "color" : "FF9F0A",
       "name" : "Shopping Center",
       "image" : "🛍",
+      "audioSource" : "[Ambiance_Crowd_Shopping_Center_Stereo](https://freesound.org/people/Nox_Sound/sounds/473576/) by [Nox_Sound](https://freesound.org/people/Nox_Sound) is licensed under [CC 0](https://creativecommons.org/publicdomain/zero/1.0)",
       "type" : "wav"
     },
     {
       "customSortIndex" : 7,
       "name" : "Waves",
       "color" : "1941A3",
+      "audioSource" : "[Waves at Shetland Islands 1](https://freesound.org/people/straget/sounds/436965/) by [straget](https://freesound.org/people/straget) is licensed under [CC 0](https://creativecommons.org/publicdomain/zero/1.0)",
       "image" : "🌊"
     },
     {
@@ -59,12 +67,14 @@
       "color" : "FF453A",
       "type" : "wav",
       "image" : "🔥",
+      "audioSource" : "[Fire Fogata](https://freesound.org/people/Mirandat7/sounds/580921/) by [Mirandat7](https://freesound.org/people/Mirandat7) is licensed under [CC 0](https://creativecommons.org/publicdomain/zero/1.0)",
       "name" : "Fire"
     },
     {
       "name" : "Thunderstorm",
       "image" : "⛈️",
       "customSortIndex" : 9,
+      "audioSource" : "[Rain and Thunderstorm](https://freesound.org/people/neolein/sounds/474256/) by [neolein](https://freesound.org/people/neolein) is licensed under [CC 0](https://creativecommons.org/publicdomain/zero/1.0)",
       "color" : "FFD60A"
     },
     {
@@ -72,6 +82,7 @@
       "color" : "702898",
       "type" : "wav",
       "customSortIndex" : 10,
+      "audioSource" : "[Quiet City Ambiance 1](https://freesound.org/people/ultradust/sounds/167457/) by [ultradust](https://freesound.org/people/ultradust) is licensed under [CC 4.0](https://creativecommons.org/licenses/by/4.0)",
       "name" : "City"
     },
     {
@@ -79,13 +90,15 @@
       "image" : "🌴",
       "type" : "wav",
       "color" : "0A84FF",
+      "audioSource" : "[Kvarnbo falls 1](https://freesound.org/people/Owl/sounds/156524/) by [Owl](https://freesound.org/people/Owl) is licensed under [CC 4.0](https://creativecommons.org/licenses/by/4.0)",
       "name" : "Waterfall"
     }
   ],
   "sorts" : "[{\"sortValue\":\"customSortIndex\",\"isForward\":true}]",
   "description" : "Ambiance and atmosphere",
   "name" : "White Noise",
-  "duration" : 2213,
-  "size" : 170101438,
+  "duration" : 2304,
+  "size" : 168639452,
+  "audioSource" : "Various",
   "image" : "🔉"
 }
